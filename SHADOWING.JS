@@ -36,3 +36,12 @@ let c=22;
 
 console.log(c);
 
+
+
+
+
+
+var d=6;
+var d=10;
+
+console.log(d);
